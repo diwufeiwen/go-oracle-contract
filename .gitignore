@@ -1,4 +1,5 @@
 *.exe
 *.exe~
 .vscode
+.idea
 /go-oracle-contract*
